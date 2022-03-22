@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this line added on master branch
+=======
+this file added on new_feature-2 branch.
+>>>>>>> new_feature-2
+burada herhangi bir değişiklik yapmadık şu an on master branch üzerindeyiz.
