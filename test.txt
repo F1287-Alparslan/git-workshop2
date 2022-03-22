@@ -1,0 +1,2 @@
+bu dosya new_fetaure-1 branch inde değiştirilmiş bu satır eklenmiştir.
+bu satır stage bölümünde eklemiştir.
